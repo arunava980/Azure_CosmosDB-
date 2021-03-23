@@ -5930,11 +5930,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\dotnet\\cosmos-db\\CosmosDbMVC\\CosmosDbMVC\\CosmosDbMVC.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\new_apps\\azure\\azure_cosmosdb\\CosmosDbMVC\\CosmosDbMVC.csproj",
       "projectName": "CosmosDbMVC",
-      "projectPath": "C:\\Users\\pc\\Desktop\\dotnet\\cosmos-db\\CosmosDbMVC\\CosmosDbMVC\\CosmosDbMVC.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\new_apps\\azure\\azure_cosmosdb\\CosmosDbMVC\\CosmosDbMVC.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\dotnet\\cosmos-db\\CosmosDbMVC\\CosmosDbMVC\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\new_apps\\azure\\azure_cosmosdb\\CosmosDbMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
